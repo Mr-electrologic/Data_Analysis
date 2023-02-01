@@ -1,2 +1,0 @@
-hello this is my 1st code for git bash
-hi i am saiprasad anvekar
