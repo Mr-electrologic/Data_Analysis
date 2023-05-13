@@ -1,0 +1,24 @@
+Order No.,Product Name,Quantity Ordered,Price,Customer Name,State
+101,Lifebuoy,100,10,Ashley,Goa
+102,Head and Shoulder,50,60,Saniton,Karnataka
+103,Sunslik,50,70,Allan,Punjab
+104,Dettol,200,25,Andre,Kashmir
+105,Comfort,150,45,Rutvek,Maharastra
+106,Cinthol,70,26,Sweyne,Goa
+107,Liril,30,40,Saiprasad,Karnataka
+108,Pears,35,30,Ashley,Punjab
+109,Lux,150,30,Ashley,Kashmir
+110,Dove,69,67,Allan,Maharastra
+111,Patanjali,170,12,Andre,Goa
+112,Santoor,65,45,Rutvek,Karnataka
+113,Medimix,115,20,Sweyne,Punjab
+114,Colgate,65,45,Saiprasad,Kashmir
+115,Pepsudent,49,50,Ashley,Maharastra
+116,Close up,65,60,Saniton,Goa
+117,Tide,54,80,Allan,Karnataka
+118,Surf excel,21,100,Andre,Punjab
+119,Maxfresh,200,90,Rutvek,Kashmir
+120,Lays,100,10,Sweyne,Maharastra
+113,Medimix,115,20,Sweyne,Punjab
+113,Medimix,,20,Sweyne,Punjab
+113,Medimix,,20,Sweyne,Punjab
